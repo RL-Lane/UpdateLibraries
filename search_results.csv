@@ -1,0 +1,134 @@
+Line Text,File Extension
+import subprocess,.py
+import pkg_resources,.py
+import pip,.py
+def install_library(library):,.py
+def update_library(library):,.py
+def check_library(library):,.py
+install_library(library),.py
+check_library(library),.py
+update_library(library),.py
+library(devtools),.R
+"if (!library(library_name, logical.return = TRUE)) {",.R
+install_or_update_library(library_name),.R
+import os,.py
+search_text = 'library(',.py
+import csv,.py
+import os,.py
+import csv,.py
+import os,.py
+import subprocess,.py
+import subprocess,.py
+library(tidyverse),.R
+library(reshape2),.R
+library(investr),.R
+library(WDI),.R
+library(tidyverse),.R
+library(tidyverse),.R
+library(ggplot2),.R
+library(scales),.R
+library(pwr),.R
+library(agricolae),.R
+library(huxtable),.R
+library(lawstat),.R
+library(lsmeans),.R
+library(nCDunnett),.R
+library(dplyr),.R
+library(investr),.R
+library(multcomp),.R
+library(pairwiseCI),.R
+library(DescTools),.R
+library(sjPlot),.R
+library(investr),.R
+library(tidyverse),.R
+library(ggplot2),.R
+library(scales),.R
+library(pwr),.R
+library(agricolae),.R
+library(huxtable),.R
+library(lawstat),.R
+library(lsmeans),.R
+library(nCDunnett),.R
+library(dplyr),.R
+library(investr),.R
+library(multcomp),.R
+library(pairwiseCI),.R
+library(DescTools),.R
+library(WDI),.R
+library(tidyverse),.R
+library(tidyverse),.R
+library(GGally),.R
+library(tidyverse),.R
+library(tidyverse),.R
+library(dplyr),.R
+library(shiny),.R
+library(ggplot2),.R
+library(dplyr),.R
+library(shiny),.R
+library(ggplot2),.R
+library(dplyr),.R
+library(dplyr),.R
+library(ggplot2),.R
+library(car),.R
+library(caret),.R
+library(scales),.R
+library(tidyr),.R
+library(readr),.R
+library(purrr),.R
+library(forcats),.R
+library(imputeMissings),.R
+library(tidyverse),.R
+library(leaps),.R
+library(MASS),.R
+library(olsrr),.R
+library(asbio),.R
+library(DAAG),.R
+library(dplyr),.R
+library(ggplot2),.R
+library(car),.R
+library(caret),.R
+library(scales),.R
+library(tidyr),.R
+library(readr),.R
+library(purrr),.R
+library(forcats),.R
+library(imputeMissings),.R
+library(tidyverse),.R
+library(leaps),.R
+library(MASS),.R
+library(olsrr),.R
+library(asbio),.R
+library(DAAG),.R
+library(shiny),.R
+library(ggplot2),.R
+library(dplyr),.R
+library(shiny),.R
+library(ggplot2),.R
+library(dplyr),.R
+library(ggplot2),.R
+library(GGally),.R
+library(rgl) ##For mac users you may need to download Xquartz before the 3d plots will run.,.R
+library(tree),.R
+library(ISLR),.R
+library(randomForest),.R
+library(FNN),.R
+library(GGally),.R
+library(ggplot2),.R
+library(gridExtra),.R
+library(ISLR) #Auto data set lives here,.R
+library(GGally) ##ggpairs,.R
+library(car),.R
+library(ggplot2),.R
+library(GGally),.R
+library(rgl) ##For mac users you may need to download Xquartz before the 3d plots will run.,.R
+library(tree),.R
+library(ISLR),.R
+library(randomForest),.R
+library(FNN),.R
+library(ggplot2),.R
+library(GGally),.R
+library(rgl) ##For mac users you may need to download Xquartz before the 3d plots will run.,.R
+library(tree),.R
+library(ISLR),.R
+library(randomForest),.R
+library(FNN),.R
